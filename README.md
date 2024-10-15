@@ -7,7 +7,17 @@ With support from the [Canada Clean Energy and Forest Climate Facility (CCEFCFy)
 
 # Project Scope
 
-## 1. Gender Spatial Data Gap Assessment
+## 1. Novel Analytical Framework
+
+An extensive literature review, focusing on the barriers women face in securing jobs, particularly within SIDS, was conducted. This comprehensive review resulted in the formulation of a Multicriteria Evaluation (MCE) framework comprising 15 key factors, both spatial and non-spatial, that affect women’s job opportunities. These factors are categorized into three dimensions: **Contextual**, **Accessibility**, and **Place Characterization**. The latter two dimensions concentrate on geographical factors.
+
+For a comprehensive understanding of the Analytical Framework and the associated methodology employed to evaluate women’s spatial access to employment opportunities, please refer to the Methodology Report available at the following link: [Methodology](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099121123091527675/p1792120dc820d04409928040a279022b42)
+
+
+
+![Analytical Framework](https://github.com/worldbank/GEEST/blob/main/docs/New%20Pictures/analytical%20framework.JPG)
+
+
 
 This undertaking involved the identification and compilation of essential open-source geospatial information layers that are crucial for assessing women’s development, employment, and business prospects within the Renewable Energy (RE) sector. A thorough research was conducted for 38 data layers within each country, organized into 11 thematic categories. The table below presents the 38 layers identified during the desk research, grouped into 11 categories, as outlined below:
 
