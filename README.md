@@ -14,8 +14,7 @@ An extensive literature review, focusing on the barriers women face in securing 
 For a comprehensive understanding of the Analytical Framework and the associated methodology employed to evaluate women’s spatial access to employment opportunities, please refer to the Methodology Report available at the following link: [Methodology Report](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099121123091527675/p1792120dc820d04409928040a279022b42)
 
 
-
-![Analytical Framework](https://github.com/worldbank/GEEST/blob/main/docs/New%20Pictures/analytical%20framework.JPG)
+![Analytical Framework](https://github.com/worldbank/GEEST/blob/main/docs/New%20Pictures/framework.jpg)
 
 
 
