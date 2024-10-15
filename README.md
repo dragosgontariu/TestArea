@@ -19,6 +19,7 @@ For a comprehensive understanding of the Analytical Framework and the associated
 ## 2. Gender Enabling Environments Tool (GEEST)
 
 Based on the Methodological Framework, the GEEST, an open-source plugin in QGIS, was developed for the automatic computation of the factors and dimensions. The GEEST characterizes communities based on women’s prospects to secure jobs or establish their own businesses within the RE sector. It aims to assist decision-makers in selecting optimal locations for RE projects, ensuring the maximum positive impact on communities and addressing gender disparities. Additionally, it provides insights for building the necessary infrastructure around RE projects to create enabling environments that enhance women’s participation in the RE sector in SIDS.
+
 The GEEST generates raw score outputs for 15 factors outlined in the Analytical Framework. Each of the 15 factors, dimensions, and overall aggregate scores are assessed on a scale ranging from 0 to 5.
 
 ![Examples](https://github.com/worldbank/GEEST/blob/main/docs/New%20Pictures/3%20countries%20maps.png)
